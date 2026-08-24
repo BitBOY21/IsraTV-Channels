@@ -5,42 +5,42 @@
       "alias": "Kan 11",
       "name": "Kan 11",
       "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
-      "logoUrl": "kan_11_il"
+      "logoUrl": "https://raw.githubusercontent.com/BitBOY21/IsraTV-Channels/main/logos/kan_11_il.png"
     },
     {
       "id": "12",
       "alias": "Keshet 12",
       "name": "Keshet 12",
       "url": "http://stream.mcquack.net/294/index.m3u8",
-      "logoUrl": "keshet_12_il"
+      "logoUrl": "https://raw.githubusercontent.com/BitBOY21/IsraTV-Channels/main/logos/keshet_12_il.png"
     },
     {
       "id": "13",
       "alias": "Reshet 13",
       "name": "Reshet 13",
       "url": "https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8",
-      "logoUrl": "reshet_13_il"
+      "logoUrl": "https://raw.githubusercontent.com/BitBOY21/IsraTV-Channels/main/logos/reshet_13.png"
     },
     {
       "id": "14",
       "alias": "Now 14",
       "name": "Now 14",
       "url": "https://n-121-4.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8?bitrate=1928000&audioId=1&videoId=8",
-      "logoUrl": "now_14_il"
+      "logoUrl": "https://raw.githubusercontent.com/BitBOY21/IsraTV-Channels/main/logos/now_14_il.png"
     },
     {
       "id": "24",
       "alias": "i24 News",
       "name": "i24 News",
       "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8",
-      "logoUrl": "i24_news_il"
+      "logoUrl": "https://raw.githubusercontent.com/BitBOY21/IsraTV-Channels/main/logos/i24_news_il.png"
     },
     {
-        "id": "99",
-        "alias": "Knesset 99",
-        "name": "Knesset 99",
-        "url": "http://stream.mcquack.net/48/index.m3u8",
-        "logoUrl": "knesset_99_il"
+      "id": "99",
+      "alias": "Knesset 99",
+      "name": "Knesset 99",
+      "url": "http://stream.mcquack.net/48/index.m3u8",
+      "logoUrl": "https://raw.githubusercontent.com/BitBOY21/IsraTV-Channels/main/logos/knesset_99_il.png"
     }
   ]
 }
