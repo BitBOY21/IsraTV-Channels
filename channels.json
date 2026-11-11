@@ -41,6 +41,13 @@
       "name": "Knesset 99",
       "url": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8",
       "logoUrl": "https://raw.githubusercontent.com/BitBOY21/IsraTV-Channels/main/logos/knesset_99_il.png"
+    },
+    {
+      "id": "9",
+      "alias": "Channel 9",
+      "name": "Channel 9",
+      "url": "https://s.ontivi.net/PqkWcgbQV093jmw6QUr4Dg/185/1794444900/index.m3u8",
+      "logoUrl": "https://raw.githubusercontent.com/BitBOY21/IsraTV-Channels/main/logos/channel_9_il.png"
     }
   ]
 }
